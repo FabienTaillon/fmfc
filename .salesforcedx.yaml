@@ -1,5 +1,5 @@
 scratch-org-def: config/project-scratch-def.json
-assign-permset: true
+assign-permset: false
 permset-name: WidgetAppAdmin
 run-apex-tests: true
 delete-scratch-org: false
